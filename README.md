@@ -1,2 +1,2 @@
-# native-seeds
+# Native Seeds
 Native Seeds Website
