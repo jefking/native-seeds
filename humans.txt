@@ -1,16 +1,13 @@
 /* TEAM */
-CEO: [CEO's Name]
 Founder: Francesca, Sarah
 Developer: Jef King
-Marketing: [Marketing Director's Name]
-Design: [Designer's Name]
 
 /* THANKS */
 Special thanks to: [Any special contributors or mentors]
 Mention: [Other notable mentions]
 
 /* SITE */
-Last update: 2024/04/26
+Last update: 2024/06/16
 Language: English
 Doctype: HTML5
 Tools used: VSCode, HTML, JavaScript, CSS
@@ -18,8 +15,3 @@ Site: https://www.native-seeds.ca
 
 /* TECHNOLOGY */
 Powered by: CloudFlare
-
-/* CONTACT */
-Twitter: @YourCompanyTwitter
-Facebook: https://facebook.com/YourCompanyFacebook
-LinkedIn: https://www.linkedin.com/company/YourCompanyLinkedIn
