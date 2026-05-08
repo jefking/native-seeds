@@ -2,10 +2,6 @@
 Founder: Francesca, Sarah
 Developer: Jef King
 
-/* THANKS */
-Special thanks to: [Any special contributors or mentors]
-Mention: [Other notable mentions]
-
 /* SITE */
 Last update: 2024/06/16
 Language: English
